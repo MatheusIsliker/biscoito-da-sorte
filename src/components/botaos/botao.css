@@ -1,0 +1,19 @@
+.textoFrase {
+   font-style: inherit;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.buttons {
+    border: 1px solid red;
+    border-radius: 10px 10px 10px 10px;
+    height: 42px;
+    width: 108px;
+    background-color: chartreuse;
+    font-family: cursive;
+    margin-left: 40%;
+    font-weight: 800;
+    cursor: pointer;
+}
